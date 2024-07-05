@@ -105,7 +105,8 @@ A not so comprehensive list of Geek Holidays celebrated online.
 12/25 - Grav-Mass Day and Sir Isaac Newton's birthday.
 
 ## Author
-Created by [Patrick H. Mullins](http://www.pmullins.net). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
+Created by [Patrick H. Mullins](http://www.pmullins.net). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.<br>
+Updated by [cristiandpto23](https://github.com/cristiandpto23).<br>
 
 ## License
 Source is released under the MIT License (MIT) [license](license.md).
