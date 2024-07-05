@@ -63,10 +63,20 @@ A not so comprehensive list of Geek Holidays celebrated online.
 06/28 - [Felicia Day's](http://feliciaday.com/) birthday.
 
 ## July
+07/02 - [World UFO Day](https://www.worldufoday.com/): A day for folks to get together and watch the skies for signs of alien lifeforms, this holiday is also sometimes celebrated on June 24th (the day that aviator Kenneth Arnold reported the first UFO sighting) while July 2nd marks the date of the alleged 1947 UFO crash in Rosewell.<br>
+07/06 - [Take Your Webmaster to Lunch Day](https://www.daysoftheyear.com/days/take-your-webmaster-to-lunch-day/)<br>
 07/10 - [Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla) Day.<br>
 07/13 - [Embrace Your Geekness](http://www.geek.com/news/its-embrace-your-geekness-day-1269590/) Day.<br>
+07/14 - [Happy Ripping Day](https://www.vueminder.com/uploads/calendar/details/9cjpc9fvkk9sjrmfsugtvqmbvg@google.com_634461984000000000.html): Celebrates the anniversary and origin of the MP3<br>
+07/17 - [Yellow Pig Day](https://hcssim.org/yellow-pigs-day/): Princeton students in the 60's were given an assignment about the number 17 which somehow turned into a yellow pig/math themed day.<br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[World Emjoi Day](https://worldemojiday.com/).<br>
+07/20 - [Moon Day](https://www.nationaldaycalendar.com/national-day/national-moon-day-july-20). The anniversary of the day Apollo 11 landed on the moon.<br>
+07/22 - [Pi Approximation Day](https://piapproximationday.com/). The fraction 22/7 is a common approximation of Pi, as it has a value of 3.14 hence this secondary holiday.<br>
+07/26 - [SysAdmin Appreciation Day](https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day). Celebrated on the last Friday in July and created to show appreciation for the hard work done by system administrators.<br>
 07/27 - System Administrator Day and Gary Gygax Day.<br>
-07/29 - Wil Wheaton's birthday.
+07/29 - [Wil Wheaton](https://en.wikipedia.org/wiki/Wil_Wheaton)'s birthday.<br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Don't Be a Dick Day](https://dontbeadickday.com/): Started by Wil Wheaton on his birthday, this is a day to be [honest, kind, honorable and awesome](https://wilwheaton.net/2012/07/happy-dont-be-a-dick-day/).<br> 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;The anniversary of the [National Aeronautics and Space Act](https://www.space.com/22171-happy-birthday-nasa-55-years.html) which gave birth to NASA.<br>
 
 ## August
 08/16 - Debian Day. #DebianDay<br>
